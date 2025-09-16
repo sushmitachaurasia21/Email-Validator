@@ -1,13 +1,17 @@
+# What is the shortest possible route the salesman can take, and what is the total distance?
+
+Answer : ACEDFBA
+
 # Email-Validator
 
-# 📧 Email Validation Service
+# Email Validation Service
 
 A production-ready, scalable email validation API similar to NeverBounce and ZeroBounce.  
 Provides **format validation, DNS checks, SMTP deliverability testing, and security analysis**.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Email format validation (RFC-compliant)
 - DNS & MX record verification
@@ -19,7 +23,7 @@ Provides **format validation, DNS checks, SMTP deliverability testing, and secur
 
 ---
 
-## 🏗️ Tech Stack
+## Tech Stack
 
 - **Framework**: Django + DRF
 - **Async**: asyncio
@@ -30,7 +34,7 @@ Provides **format validation, DNS checks, SMTP deliverability testing, and secur
 
 ---
 
-## 📋 Prerequisites
+## Prerequisites
 
 - Python 3.8+
 - pip
@@ -38,7 +42,7 @@ Provides **format validation, DNS checks, SMTP deliverability testing, and secur
 
 ---
 
-## ⚡ Quick Setup
+## Quick Setup
 
 ```bash
 git clone https://github.com/yourusername/email-validation-service.git
