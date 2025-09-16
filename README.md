@@ -2,8 +2,6 @@
 
 Answer : ACEDFBA
 
-# Email-Validator
-
 # Email Validation Service
 
 A production-ready, scalable email validation API similar to NeverBounce and ZeroBounce.  
